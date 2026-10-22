@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cover Letter"
+  short_description: "根据导师近年研究与最新 CV 定制套磁信、RS 和 CV，保留认可版式"
+  default_prompt: "使用 $cover-letter，根据导师信息和我的最新 CV，制作可直接使用的套磁信、Research Statement 和定制 CV，并检查全部页面的排版。"
